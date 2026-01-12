@@ -14,6 +14,8 @@ name_1 = {"left_angle_bracket"},{"이세한"},{"right_angle_bracket"}
 its_me_mario = "나야"
 name_2 = {"left_angle_bracket"},{"이세한"},{"close_tag_slash"},{"right_angle_bracket"}
 
+#다른 방식으로 한번 연결시켜보도록 하여 나만의 방식을 모색하고자 했고,각각의 변수를 만들어 변수안에 문자열을 넣어 기입후 출력을 시도. 결과는 그저 문자열만 나열하는 결과를 뽑아내어 내가 원하던 결과가 아니게 됨.다른 문법을 이용해보고 싶음.
+
 print((name_1),(its_me_mario),(name_2))
 print("<" + "이세한" + ">" )
 
